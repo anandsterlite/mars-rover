@@ -1,0 +1,13 @@
+This project implemented "Mars Rover" game.
+
+Ruby version : 1.9.3
+
+Users :
+
+Start Game by running "rake play"
+
+Developers :
+
+This project is currenlty implemented for two dimensional mat. This project is scalable 
+in design to extend this to multiple dimensions in future.
+
